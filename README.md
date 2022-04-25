@@ -2,7 +2,7 @@
 
 Command line menu-driven program to perform certain operations on an image and generate the output file
 
-Operations included:
+Operations include:
  1. Negative
  2. Change Brightness
  3. Filter
